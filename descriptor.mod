@@ -11,7 +11,6 @@ tags={
 	"Ideologies"
 	"Gameplay"
 	"Events"
-	"Sound"
 	"Alternative History"
 }
 user_dir="Belle Epoque"
