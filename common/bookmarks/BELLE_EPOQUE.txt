@@ -1,0 +1,78 @@
+bookmarks = {
+	bookmark = {
+		name = "BELLE_EPOQUE_NAME"
+		desc = "BELLE_EPOQUE_DESC"
+		date = 1930.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "RUS"
+		default = yes
+		
+		"FRA"={
+			history = "FRA_BELLE_EPOQUE_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"USA"={
+			history = "USA_BELLE_EPOQUE_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"ENG"={
+			history = "ENG_BELLE_EPOQUE_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"GER"={
+			history = "GER_BELLE_EPOQUE_DESC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+
+			}
+		}
+		"ITA"={
+			history = "ITA_BELLE_EPOQUE_DESC"
+			ideology = fascism
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
+		"OSM"={
+			history = "OSM_BELLE_EPOQUE_DESC"
+			ideology = neutrality
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
+		"RUS"={
+			history = "RUS_BELLE_EPOQUE_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
