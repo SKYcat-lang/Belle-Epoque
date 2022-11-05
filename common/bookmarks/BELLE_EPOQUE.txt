@@ -3,7 +3,7 @@ bookmarks = {
 		name = "BELLE_EPOQUE_NAME"
 		desc = "BELLE_EPOQUE_DESC"
 		date = 1930.1.1.12
-		picture = "GFX_select_date_1936"
+		picture = "GFX_select_date_1930"
 		default_country = "RUS"
 		default = yes
 		

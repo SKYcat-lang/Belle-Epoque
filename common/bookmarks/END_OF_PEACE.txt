@@ -3,7 +3,7 @@ bookmarks = {
 		name = "END_OF_PEACE_NAME"
 		desc = "END_OF_PEACE_DESC"
 		date = 1933.8.14.12
-		picture = "GFX_select_date_1939"
+		picture = "GFX_select_date_1933"
 		default_country = "DEU"
 	
 		FRA = {

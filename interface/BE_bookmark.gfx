@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_select_date_1930"
+		texturefile = "gfx/interface/select_date_1930.dds"
+	}
+	spriteType = {
+		name = "GFX_select_date_1933"
+		texturefile = "gfx/interface/select_date_1933.dds"
+	}
+}

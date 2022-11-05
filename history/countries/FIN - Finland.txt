@@ -8,7 +8,6 @@ if = {
 		set_naval_oob = "FIN_1936_naval_legacy"
 	}
 }
-
 set_research_slots = 3
 
 recruit_character = FIN_risto_heikki_ryti
@@ -147,7 +146,7 @@ add_ideas = {
 
 set_politics = {
 	ruling_party = neutrality
-	last_election = "1933.7.1"
+	last_election = "1928.1.1"
 	election_frequency = 36
 	elections_allowed = yes
 }
@@ -156,15 +155,6 @@ set_popularities = {
 	fascism = 10
 	communism = 1
 	neutrality = 79
-}
-
-1939.1.1 = {
-	set_politics = {
-		ruling_party = neutrality
-		last_election = "1939.7.1"
-		election_frequency = 36
-		elections_allowed = yes
-	}
 }
 
 

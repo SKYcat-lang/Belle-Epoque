@@ -61,6 +61,24 @@ if = {
 	}
 }
 
+set_autonomy = {
+	target = FIN
+	autonomy_state = autonomy_personal_union
+}
+FIN = {
+	set_politics = {
+		ruling_party = neutrality
+		last_election = "1928.1.1"
+		election_frequency = 36
+		elections_allowed = yes
+	}
+	set_popularities = {
+		democratic = 10
+		fascism = 10
+		communism = 1
+		neutrality = 79
+	}
+}
 set_research_slots = 3
 set_stability = 0.3
 set_war_support = 0.1
@@ -304,15 +322,16 @@ add_ideas = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = communism
-	last_election = "1933.7.1"
+	ruling_party = neutrality
+	last_election = "1928.7.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 10
+	communism = 14
+	democratic = 34
 	fascism = 2
-	communism = 88
+	neutrality = 50
 }
 
 create_faction = Comintern

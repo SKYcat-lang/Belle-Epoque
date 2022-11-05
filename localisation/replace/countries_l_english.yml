@@ -35,8 +35,8 @@
  FIN_fascism_DEF:0 "대핀란드"
  FIN_democratic:0 "핀란드 공화국"
  FIN_democratic_DEF:0 "핀란드 공화국"
- FIN_neutrality:0 "핀란드 대공국"
- FIN_neutrality_DEF:0 "핀란드 대공국"
+ FIN_neutrality:0 "핀란드"
+ FIN_neutrality_DEF:0 "핀란드"
  FIN_communism:0 "적핀란드"
  FIN_communism_DEF:0 "적핀란드"
  FIN_fascism_ADJ:0 "대핀란드"
@@ -62,3 +62,9 @@
  OSM:0 "오스만"
  OSM_DEF:0 "오스만"
  OSM_ADJ:0 "오스만"
+
+ #종속국 명
+ FIN_subject:0 "$OVERLORDADJ$령 $FIN$"
+ FIN_subject_DEF:0 "$OVERLORDADJ$령 $FIN$"
+ FIN_neutrality_subject:0 "핀란드 대공국"
+ FIN_neutrality_subject_DEF:0 "핀란드 대공국"
