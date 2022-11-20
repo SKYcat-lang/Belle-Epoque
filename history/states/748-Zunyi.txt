@@ -5,9 +5,10 @@ state={
 		1010 4141 4325 4431 9939 10763 11972 
 	}
 	history={
-		owner = CHI
+		owner = SIC
+		add_core_of = BEC
 		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = SIC
 		buildings = {
 			infrastructure = 1
 

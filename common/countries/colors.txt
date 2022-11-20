@@ -13,6 +13,18 @@ GER = {
 	color = HSV { 0.1 0.15 0.5 }
 	color_ui = rgb { 138 155 116 }
 }
+BEC = {
+	color = HSV { 0.1 0.9 0.8 }
+	color_ui = rgb { 205 147 31 }
+}
+SIC = {
+	color = HSV { 0.15 0.4 0.6 }
+	color_ui = rgb { 154 139 92 }
+}
+MAN = {
+	color = HSV { 0.35 1 0.55 }
+	color_ui = rgb { 0 200 20 }
+}
 
 ##바닐라
 ENG = {
@@ -432,10 +444,6 @@ MNT = {
 BLR = {
 	color = rgb { 180 220 190 }
 	color_ui = rgb { 180 220 190 }
-}
-MAN = {
-	color = rgb { 255 120 71 }
-	color_ui = rgb { 255 120 71 }
 }
 ANG = {
 	color = rgb { 37 140 61 }
