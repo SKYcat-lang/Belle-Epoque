@@ -25,6 +25,30 @@ MAN = {
 	color = HSV { 0.35 1 0.55 }
 	color_ui = rgb { 0 200 20 }
 }
+SHA = {
+	color = HSV { 0.65 0.50 0.50 }
+	color_ui = rgb { 64 64 128 }
+}
+ANH = {
+	color = HSV { 0.14 0.8 0.8 }
+	color_ui = rgb { 154 138 61 }
+}
+CHI = {
+	color = hsv { 0.55 0.4 0.7 } #255 244 190
+	color_ui = rgb { 108 155 179 }
+}
+SAA = {
+	color = hsv { 0.55 0.1 0.45 } #255 244 190
+	color_ui = rgb { 103 111 115 }
+}
+KOR = {
+	color = hsv { 0.6 0.5 0.35 } #255 244 190
+	color_ui = rgb { 45 62 90 }
+}
+JAP = {
+	color = hsv { 0.05 0.5 0.6 }
+	color_ui = hsv { 0.05 0.5 0.6 }
+}
 
 ##바닐라
 ENG = {
@@ -164,10 +188,6 @@ CAN = {
 	color = rgb { 233  59  59 }
 	color_ui = rgb { 155 62 51 }
 }
-CHI = {
-	color = hsv { 0.18 0.6 0.9 } #255 244 190
-	color_ui = hsv { 0.18 0.3 0.9 }
-}
 CHL = {
 	color = rgb { 155 101 107 }
 	color_ui = rgb { 202 131 139 }
@@ -203,10 +223,6 @@ HON = {
 IRQ = {
 	color = rgb { 178 114 99 }
 	color_ui = rgb { 231 148 129 }
-}
-JAP = {
-	color = hsv { 0.05 0.3 1 }
-	color_ui = hsv { 0.05 0.25 1.2 }
 }
 LIB = {
 	color = rgb { 152 130 191 }
@@ -481,10 +497,6 @@ WGR = {
 DDR = {
     color = rgb { 120 150 80 }
     color_ui = rgb { 150 180 120 }
-}
-KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }

@@ -8,7 +8,7 @@ state=
 	
 	history=
 	{
-		owner = BEC
+		owner = GER
 		add_core_of = CHI
 		add_core_of = BEC
 		victory_points = {

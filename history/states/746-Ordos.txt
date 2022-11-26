@@ -9,24 +9,13 @@ state={
 	
 	history=
 	{
-		owner = SHX
-		add_core_of = SHX
+		owner = SAA
+		add_core_of = SAA
 		add_core_of = CHI
 		add_core_of = BEC
 		
 		buildings = {
 			infrastructure = 1
-		}
-
-		1938.10.25 = {
-			controller = JAP
-		}
-		
-		1939.1.1 = {
-			
-			owner = BEC
-			controller = MEN
-
 		}
 	}
 	manpower=500000

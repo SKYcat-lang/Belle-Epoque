@@ -7,7 +7,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = ENG
+		owner = TUR
+		add_core_of = TUR
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
