@@ -6,17 +6,13 @@ state={
 	state_category = rural
 	
 	history={
-		owner = AUS
+		owner = KAW
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 		}
-		add_core_of = AUS
-
-		1939.3.14 = {
-			owner = RUS
-			controller = RUS
-		}
+		add_core_of = KAW
+		add_core_of = CZE
 	}
 
 	provinces={

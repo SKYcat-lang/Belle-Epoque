@@ -10,12 +10,12 @@ state={
 		victory_points = {
 			577 1 
 		}
-		owner = AUS
+		owner = KAW
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 		}
-		add_core_of = AUS
+		add_core_of = KAW
 		add_claim_by = UKR
 	}
 	provinces={

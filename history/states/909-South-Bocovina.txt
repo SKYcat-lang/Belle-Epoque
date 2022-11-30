@@ -6,19 +6,19 @@ state={
 	state_category = rural
 
 	history={
-		owner = AUS
+		owner = ROM
 		buildings = {
 			infrastructure = 2
 
 		}
 		
-		add_core_of = AUS
+		add_core_of = ROM
 
 	}
 	provinces={
 		6761 11689 
 	}
-	manpower=0
+	manpower=2000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

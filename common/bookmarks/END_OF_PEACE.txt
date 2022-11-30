@@ -2,54 +2,32 @@ bookmarks = {
 	bookmark = {
 		name = "END_OF_PEACE_NAME"
 		desc = "END_OF_PEACE_DESC"
-		date = 1933.8.14.12
+		date = 1930.8.14.12
 		picture = "GFX_select_date_1933"
-		default_country = "DEU"
+		default_country = "FRA"
 	
 		FRA = {
 			history = FRA_END_OF_PEACE_DESC
 			ideology = democratic
 			ideas={
-				FRA_victors_of_wwi
-				FRA_disjointed_government
-				FRA_protected_by_the_maginot_line
 			}
 			focuses = {
-				FRA_strengthen_government_support
-				FRA_arms_purchases_in_the_us
-				FRA_french_union
 			}
 		}
 		USA = {
 			history = USA_END_OF_PEACE_DESC
 			ideology = democratic
 			ideas = {
-				home_of_the_free
-				great_depression_3
-				air_war_plans_division_focus
-				USA_war_department
-				new_deal
 			}
 			focuses = {
-				USA_war_plan_black
-				USA_arsenal_of_democracy
-				USA_selective_training_act
 			}
 		}
 		ENG = {
 			history = ENG_END_OF_PEACE_DESC
 			ideology = democratic
 			ideas = {
-				stiff_upper_lip
-				ENG_the_war_to_end_all_wars
-				ENG_george_vi
-				british_austerity_idea
-				ENG_colonial_elite
 			}
 			focuses = {
-				ENG_war_with_japan
-				bomber_command_focus
-				maud_focus
 			}
 			
 		}
@@ -67,17 +45,12 @@ bookmarks = {
 			history = ITA_END_OF_PEACE_DESC
 			ideology = fascism
 			ideas={
-				vittoria_mutilata
-				victor_emmanuel
 			}
 			focuses = {
-				ITA_pact_of_steel
-				ITA_spanish_italian_faction
-				ITA_italy_first
 			}			
 		}
-		OSM = {
-			history = OSM_END_OF_PEACE_DESC
+		TUR = {
+			history = TUR_END_OF_PEACE_DESC
 			ideology = neutrality
 			ideas={
 			}	

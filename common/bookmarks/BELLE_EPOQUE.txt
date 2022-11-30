@@ -2,9 +2,9 @@ bookmarks = {
 	bookmark = {
 		name = "BELLE_EPOQUE_NAME"
 		desc = "BELLE_EPOQUE_DESC"
-		date = 1930.1.1.12
+		date = 1928.1.1.12
 		picture = "GFX_select_date_1930"
-		default_country = "RUS"
+		default_country = "FRA"
 		default = yes
 		
 		"FRA"={
@@ -49,8 +49,8 @@ bookmarks = {
 			focuses = {
 			}		
 		}
-		"OSM"={
-			history = "OSM_BELLE_EPOQUE_DESC"
+		"TUR"={
+			history = "TUR_BELLE_EPOQUE_DESC"
 			ideology = neutrality
 			ideas = {
 			}	
