@@ -9,7 +9,7 @@ tags={
 	"Translation"
 	"Historical"
 	"Ideologies"
-	"Gameplay"
+	"Gameplay" 
 	"Events"
 	"Alternative History"
 }
