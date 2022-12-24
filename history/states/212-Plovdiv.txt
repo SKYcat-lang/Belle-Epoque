@@ -11,8 +11,7 @@ state={
 	}
 
 	history={
-		owner = YUG
-		add_core_of = YUG
+		owner = BUL
 		victory_points = { #Plovdiv
 			6923 10
 		}
