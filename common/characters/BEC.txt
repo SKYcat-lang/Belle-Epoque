@@ -1,0 +1,18 @@
+characters={
+	BEC_Li_Yuanhong={
+		name=BEC_Li_Yuanhong
+		portraits={
+			civilian={
+				large=GFX_portrait_BEC_Li_Yuanhong
+			}
+		}
+		country_leader={
+			ideology=centrism
+			traits={  }
+			expire="1928.6.3.1"
+			id=700
+		}
+	}
+
+	# Illusive Gentleman auto-generated
+}

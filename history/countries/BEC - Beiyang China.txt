@@ -10,6 +10,20 @@ set_technology = {
 	mass_assault = 1
 }
 
+if = {
+	limit = {
+		has_dlc = "Waking the Tiger"
+	}		
+	add_ideas = {
+		CHI_nine_power_treaty
+		CHI_army_corruption_1
+		CHI_ineffective_bureaucracy
+		CHI_incompetent_officers
+	}
+}
+
+recruit_character = BEC_Li_Yuanhong
+
 1939.1.1 = {
 	
 	oob = "BEC_1939"
