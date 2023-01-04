@@ -380,13 +380,17 @@ set_convoys = 400
 
 set_politics = {
 	ruling_party = fascism
-	last_election = "1936.1.1"
+	last_election = "1928.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 100
+	fascism = 50
+	communism = 20
+	neutrality = 30
 }
+
+recruit_character = JAP_Kita_Ikki
 
 recruit_character = JAP_tetsu_katayama
 recruit_character = JAP_kyuichi_tokuda
