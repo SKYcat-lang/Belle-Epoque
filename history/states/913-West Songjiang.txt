@@ -1,25 +1,25 @@
-
 state={
-	id=717
-	name="STATE_717"
+	id=913
+	name="STATE_913"
+	state_category=pastoral
 
+	
 	history={
-		owner = MAN
+		owner = RUS
 		add_core_of = CHI
 		add_core_of = MAN
 		add_core_of = BEC
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 
 		}
 
 	}
 
 	provinces={
-		783 973 3791 3944 6806 6811 6964 9766 9897 10376 10503 11893 11906 12482 
+		810 1571 3815 3843 4551 5427 6863 7569 7670 9623 9798 10215 10463 10519 10521 12342 12355 12443 12500 
 	}
 	manpower=2612087
 	buildings_max_level_factor=1.000
-	state_category=pastoral
 	local_supplies=0.000
 }

@@ -1,23 +1,24 @@
 
 state={
-	id=610
-	name="STATE_610"
+	id=912
+	name="STATE_912"
 
 	history={
-		owner = BEC
+		owner = KOR
+		add_core_of = KOR
 		add_core_of = CHI
 		add_core_of = BEC
 		buildings = {
-			infrastructure = 2
+			infrastructure = 0
 
 		}
 
 	}
 
 	provinces={
-		814 881 972 3814 3881 3955 6837 6898 6937 6988 9768 9873 9905 10331 10499 11801 11886 
+		944 3929 
 	}
-	manpower=1322166
+	manpower=81021
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000

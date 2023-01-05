@@ -6,8 +6,7 @@ state={
 	}
 
 	history={
-		owner = SHA
-		add_core_of = SHA
+		owner = BEC
 		add_core_of = CHI
 		add_core_of = BEC
 		buildings = {
