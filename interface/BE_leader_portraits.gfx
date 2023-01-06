@@ -10,4 +10,8 @@ spriteTypes = {
 		name = "GFX_portrait_JAP_Kita_Ikki"
 		texturefile = "gfx/leaders/JAP/portrait_JAP_Kita_Ikki.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_CHI_Chen_Jiongming"
+		texturefile = "gfx/leaders/CHI/portrait_CHI_Chen_Jiongming.dds"
+	}
 }

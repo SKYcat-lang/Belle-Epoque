@@ -1,4 +1,9 @@
 ﻿l_english:
+ CHI_fascism_party:0 "파시스트"
+ CHI_communism_party:0 "중국 국민당 (좌파)"
+ CHI_democratic_party:0 "중국 치공당"
+ CHI_neutrality_party:0 "중국 치공당"
+
  JAP_fascism_party:0 "황도파"
  JAP_fascism_party_long:0 "황도파"
  JAP_communism_party:0 "황도파 (좌파)"
