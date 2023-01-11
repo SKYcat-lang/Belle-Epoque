@@ -1,4 +1,4 @@
-version="0.1"
+version="0.3.5"
 name="Belle Epoque : Age Of Peace"
 picture="Thumbnail.png"
 tags={
