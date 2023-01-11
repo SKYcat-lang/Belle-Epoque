@@ -6,7 +6,7 @@ state = {
 	state_category = enclave
 	
 	history = {
-		owner = RUS
+		owner = YUG
 		add_core_of = YUG
 		victory_points = { #Zara/Zadar
 			3943 5 
