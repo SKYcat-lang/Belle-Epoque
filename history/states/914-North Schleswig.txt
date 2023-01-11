@@ -1,0 +1,19 @@
+state={
+	id=914
+	name="STATE_914"
+	manpower = 3248150
+	state_category = town
+	provinces={
+		332 11251 
+	}
+	history=
+	{
+		owner = GER
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = GER
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
