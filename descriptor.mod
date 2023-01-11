@@ -1,5 +1,5 @@
 version="0.1"
-name="Belle Epoque"
+name="Belle Epoque : Age Of Peace"
 picture="Thumbnail.png"
 tags={
 	"Map"
