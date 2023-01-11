@@ -1,0 +1,17 @@
+characters={
+	##############MOD##############
+	KOR_Yi_Eun={
+		name=KOR_Yi_Eun
+		portraits={
+			civilian={
+				large="gfx/leaders/KOR/Yi_Eun.dds"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits={}
+			expire="1970.1.1.1"
+			id=700
+		}
+	}
+}
