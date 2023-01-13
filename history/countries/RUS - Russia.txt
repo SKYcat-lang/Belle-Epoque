@@ -60,6 +60,15 @@ if = {
 		}
 	}
 }
+	
+diplomatic_relation = {
+    country = KOR
+    relation = docking_rights
+    active = yes
+}
+give_guarantee = KOR
+
+
 set_autonomy = {
 	target = MON
 	autonomy_state = autonomy_puppet
