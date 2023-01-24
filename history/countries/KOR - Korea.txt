@@ -23,6 +23,8 @@ set_popularities = {
 	neutrality = 50
 }
 
+give_military_access = RUS
+
 create_country_leader = {
 	name = "Syngman Rhee"
 	desc = ""
